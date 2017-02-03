@@ -1,0 +1,8 @@
+build
+softboundcets-lib/*.o
+softboundcets-lib/*.a
+softboundcets-lib/lto/*.o
+softboundcets-lib/lto/*.a
+*Debug+Asserts*
+*.log
+tests
