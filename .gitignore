@@ -1,3 +1,4 @@
+# note, there is a second gitignore file in softboundcets-llvm-clang34
 build
 softboundcets-lib/*.o
 softboundcets-lib/*.a

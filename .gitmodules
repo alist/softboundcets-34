@@ -1,3 +1,6 @@
 [submodule "softboundcets-llvm-clang34/lib/Transforms/SoftboundOPT"]
 	path = softboundcets-llvm-clang34/lib/Transforms/SoftboundOPT
 	url = git@github.com:baltazarortiz/softboundopt_dev.git
+[submodule "binutils"]
+	path = binutils
+	url = git://sourceware.org/git/binutils-gdb.git
